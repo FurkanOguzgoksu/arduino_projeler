@@ -25,7 +25,7 @@ Arduino IDE → Kütüphane Yöneticisi'nden kurulur:
 
 ![Bluetooth arabanın 3 boyutlu çizimi](medya/3-boyutlu-cizim.jpeg)
 
-https://github.com/user-attachments/assets/a2729ed7-c1da-426c-aef2-33931ec6f2bd
+https://github.com/user-attachments/assets/db6976ad-65c7-43fb-9987-eff3bf296998
 
 HC-05/HC-06 modülü donanım seri portuna (D0/D1) 9600 baud ile bağlanır. Kontrol için [arduino_controller_app](https://github.com/FurkanOguzgoksu/arduino_controller_app) kullanılır.
 
