@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/1126491c-d33f-46df-97b3-fb27640b1254
-
 # arduino_projeler
 
 Arduino Uno ile yapılmış 4 tekerlekli robot araba projeleri. Her klasör, Arduino IDE ile doğrudan açılabilen bir sketch'tir.
@@ -31,8 +28,7 @@ Arduino IDE → Kütüphane Yöneticisi'nden kurulur:
 
 <!-- VIDEO: manuel-kontrol.mp4 dosyasını bu satırın yerine sürükle -->
 
-
-
+https://github.com/user-attachments/assets/a2729ed7-c1da-426c-aef2-33931ec6f2bd
 
 
 HC-05/HC-06 modülü donanım seri portuna (D0/D1) 9600 baud ile bağlanır. Kontrol için [arduino_controller_app](https://github.com/FurkanOguzgoksu/arduino_controller_app) kullanılır.
