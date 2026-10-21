@@ -23,6 +23,10 @@ Arduino IDE → Kütüphane Yöneticisi'nden kurulur:
 
 ## Bluetooth araba (4wsArabaSon)
 
+![Bluetooth arabanın 3 boyutlu çizimi](medya/3-boyutlu-cizim.jpeg)
+
+<!-- VIDEO: manuel-kontrol.mp4 dosyasını bu satırın yerine sürükle -->
+
 HC-05/HC-06 modülü donanım seri portuna (D0/D1) 9600 baud ile bağlanır. Kontrol için [arduino_controller_app](https://github.com/FurkanOguzgoksu/arduino_controller_app) kullanılır.
 
 | Komut | İşlev     | Komut              | İşlev                                   |
@@ -68,6 +72,14 @@ Uygulama araç hareket ederken her 300 ms'de bir `.` gönderir; 1 saniye veri ge
 | Kp        | 0.10            | 0.08                  |
 | Kd        | 0.45            | 0.35                  |
 | Taban hız | 170             | 125                   |
+
+**Normal sürüm**
+
+<!-- VIDEO: cizgi-izleyen.mp4 dosyasını bu satırın yerine sürükle -->
+
+**Hassas sürüm**
+
+<!-- VIDEO: cizgi-izleyen-hassas.mp4 dosyasını bu satırın yerine sürükle -->
 
 Açılışta dahili LED yanarken (~3 sn) robotu çizginin üzerinde sağa sola gezdirerek kalibre edin.
 
