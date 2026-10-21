@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1126491c-d33f-46df-97b3-fb27640b1254
+
 # arduino_projeler
 
 Arduino Uno ile yapılmış 4 tekerlekli robot araba projeleri. Her klasör, Arduino IDE ile doğrudan açılabilen bir sketch'tir.
@@ -26,6 +30,10 @@ Arduino IDE → Kütüphane Yöneticisi'nden kurulur:
 ![Bluetooth arabanın 3 boyutlu çizimi](medya/3-boyutlu-cizim.jpeg)
 
 <!-- VIDEO: manuel-kontrol.mp4 dosyasını bu satırın yerine sürükle -->
+
+
+
+
 
 HC-05/HC-06 modülü donanım seri portuna (D0/D1) 9600 baud ile bağlanır. Kontrol için [arduino_controller_app](https://github.com/FurkanOguzgoksu/arduino_controller_app) kullanılır.
 
@@ -77,9 +85,15 @@ Uygulama araç hareket ederken her 300 ms'de bir `.` gönderir; 1 saniye veri ge
 
 <!-- VIDEO: cizgi-izleyen.mp4 dosyasını bu satırın yerine sürükle -->
 
+https://github.com/user-attachments/assets/235b7cf3-40a2-458a-b69d-2c3e19aa4bcf
+
+
 **Hassas sürüm**
 
-<!-- VIDEO: cizgi-izleyen-hassas.mp4 dosyasını bu satırın yerine sürükle -->
+<!-- VIDEO: cizgi-izleyen-hassas.mp4 dosyasını bu satırın yerine sürükle --> 
+
+https://github.com/user-attachments/assets/1a862eb4-4ec3-4c0f-9456-e205e1b655a5
+
 
 Açılışta dahili LED yanarken (~3 sn) robotu çizginin üzerinde sağa sola gezdirerek kalibre edin.
 
